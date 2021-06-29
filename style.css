@@ -115,10 +115,10 @@ body {
     background-size: cover;
 }
 .app-download:nth-child(1) {
-    background-image: url(appstore-button.jpeg)
+    background-image: url('./images/appstore-button.jpeg')
 }
 .app-download:nth-child(2) {
-    background-image: url(googleplay-button.jpeg)
+    background-image: url('./images/googleplay-button.jpeg')
 }
 
 /* media queries */
